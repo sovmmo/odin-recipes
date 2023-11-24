@@ -1,0 +1,31 @@
+body { 
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cool {
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+}
+
+.one {
+    background-color: bisque;
+    color: black;
+}
+
+.two {
+    background-color: beige;
+    color: maroon;
+    font-weight: 800;
+}
+
+.love {
+  color: black;  
+}
+
+.damn {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
